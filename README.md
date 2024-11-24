@@ -4,7 +4,7 @@
 
 **Language:** Python
 
-**Frameworks:** FastAPI, SQLmodel, SQLAlchemy
+**Frameworks:** FastAPI, SQLModel, SQLAlchemy
 
 **DB:** PostgreSQL, MongoDB
 
