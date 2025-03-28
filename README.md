@@ -1,15 +1,18 @@
-<div align="center">
+### Tech Stack
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r6a6w5bq7kr2hczzejuvqry7oe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31r6a6w5bq7kr2hczzejuvqry7oe?si=1149c282dd4640b2)
+| Category                     | Technologies                                                            |
+| :--------------------------- | :---------------------------------------------------------------------- |
+| **Languages**                | Python, Go (basic)                                                      |
+| **Frameworks**               | FastAPI, Flask, Litestar, aiohttp                                       |
+| **ORM**                      | SQLAlchemy, SQLModel                                                    |
+| **Testing**                  | pytest, tavern                                                          |
+| **DI / Frameworks**          | dishka, faststream                                                      |
+| **Databases**                | PostgreSQL, MySQL, MongoDB Redis                                        |
+| **Message Brokers**          | RabbitMQ, Kafka                                                         |
+| **DevOps / CI/CD**           | Docker, Kubernetes, Git, GitHub Actions, GitLab CI/CD                   |
+| **Proxies**                  | Nginx                                                                   |
+| **Observability**            | Sentry, Prometheus, Grafana                                             |
+| **Architecture / Design**    | REST API Design, Clean Architecture, Domain-Driven Design               |
 
-**Language:** Python
 
-**Frameworks:** FastAPI, SQLModel, SQLAlchemy
-
-**DB:** PostgreSQL, MongoDB
-
-**Tools:** Docker, Nginx
-
-[Telegram](https://t.me/kaiser_wald)
-
-</div>
+**Telegram:** [t.me/kaiser_wald](https://t.me/kaiser_wald)
