@@ -16,3 +16,10 @@
 
 
 **Telegram:** [t.me/kaiser_wald](https://t.me/kaiser_wald)
+
+## `Achievements`
+
+### `Winner`
+
+####  [PROD 2025 - Industrial Development Olympiad](https://prodcontest.ru/)
+* Best solution in individual tour in "Backend"
